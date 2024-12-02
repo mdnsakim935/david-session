@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃mdn_sakim-935 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = 𖥘 mdn sakim 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || WhattsApp Channel = 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?👉 https://api.whatsapp.com/send?phone=+254793288151 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 mdn sakim*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
